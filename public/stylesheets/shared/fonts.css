@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Flamante Round';
+    src: url('/fonts/FlamanteRoundMedium.woff2') format('woff2'),
+        url('/fonts/FlamanteRoundMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flamante Round Book';
+    src: url('/fonts/FlamanteRoundBook.woff2') format('woff2'),
+        url('/fonts/FlamanteRoundBook.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flamante Round';
+    src: url('/fonts/FlamanteRoundBold.woff2') format('woff2'),
+        url('/fonts/FlamanteRoundBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
